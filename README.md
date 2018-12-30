@@ -1,3 +1,3 @@
 # holography_tools
-holography scripts designed to be used with Fiji
+Holography scripts written in Python and designed to be used with Fiji
 
